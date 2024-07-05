@@ -2,7 +2,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.asparksys.lask_lawyer",
+      "package_name": "com.asparksys.lasklawyer",
       "sha256_cert_fingerprints":
       ["FD:8B:25:34:B5:22:5D:E1:D0:5D:DD:53:4C:EA:8D:9D:4E:2E:3C:F9:21:46:E1:D0:14:B3:D7:FA:92:3D:92:37"]
     }
